@@ -1,6 +1,6 @@
 # Lakekeeper Plus Release Notes
 
-## v0.13.0 (2026-06-30)
+## v0.13.0 (2026-07-02)
 
 _Based on Lakekeeper OSS v0.13.1._
 
